@@ -1,0 +1,10 @@
+.elementor-119 .elementor-element.elementor-element-1e9a1be8{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:80px;--padding-bottom:80px;--padding-left:40px;--padding-right:40px;}.elementor-119 .elementor-element.elementor-element-14463613 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:20px 20px 20px 0px;}.elementor-119 .elementor-element.elementor-element-14463613{text-align:center;}#elementor-popup-modal-119{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-119 .dialog-message{width:80vw;height:auto;}#elementor-popup-modal-119 .dialog-close-button{display:flex;font-size:20px;}#elementor-popup-modal-119 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}/* Start custom CSS for container, class: .elementor-element-1e9a1be8 */#gform_save_4_footer_link {
+    border: none;
+    text-decoration: underline;
+    font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;
+}
+
+#gform_save_4_footer_link:hover {
+    background-color: white;
+    color: #006AFF;
+}/* End custom CSS */
